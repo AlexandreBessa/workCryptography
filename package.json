@@ -1,0 +1,12 @@
+{
+  "name": "workcryptography",
+  "version": "1.0.0",
+  "description": "Trabalho de Segurança e auditoria em Engenharia de Software",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alexandre Luiz Bessa",
+  "license": "ISC"
+}
